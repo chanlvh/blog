@@ -1,6 +1,6 @@
 ---
 id: 290
-title: 'Day 3 &#8211; Cloning Yelp'
+title: 'Day 3 - Cloning Yelp'
 date: 2016-05-31T16:24:30+00:00
 author: Chan Le
 layout: post

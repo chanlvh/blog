@@ -1,6 +1,6 @@
 ---
 id: 270
-title: 'Day 1 &#8211; Vim regex turns comment into echo'
+title: 'Day 1 - Vim regex turns comment into echo'
 date: 2016-05-12T12:37:02+00:00
 author: Chan Le
 layout: post

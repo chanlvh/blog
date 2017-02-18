@@ -1,6 +1,6 @@
 ---
 id: 280
-title: 'Day 2 &#8211; Symbolic link vs Hard link'
+title: 'Day 2 - Symbolic link vs Hard link'
 date: 2016-05-12T21:59:42+00:00
 author: Chan Le
 layout: post

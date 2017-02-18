@@ -1,6 +1,6 @@
 ---
 id: 284
-title: 'Day 2 &#8211; Bash learning'
+title: 'Day 2 - Bash learning'
 date: 2016-05-13T05:06:06+00:00
 author: Chan Le
 layout: post

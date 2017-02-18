@@ -1,6 +1,6 @@
 ---
 id: 266
-title: 'Day 1 &#8211; Chef nightmare &#038; setup script security problem'
+title: 'Day 1 - Chef nightmare &#038; setup script security problem'
 date: 2016-05-12T13:02:23+00:00
 author: Chan Le
 layout: post

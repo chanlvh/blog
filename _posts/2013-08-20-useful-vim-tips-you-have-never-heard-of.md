@@ -1,14 +1,9 @@
 ---
-id: 23
+layout: post
 title: Useful VIM tips you may have never heard of
 date: 2013-08-20T22:36:42+00:00
 author: Chan Le
-layout: post
 permalink: /useful-vim-tips-you-have-never-heard-of/
-dsq_thread_id:
-  - "1622836418"
-categories:
-  - Tech
 ---
 [![Vim Logo](/uploads/vim-editor_logo-150x150.png)](/uploads/vim-editor_logo-e1377064266208.png)I have always been a fan of [Vim](http://www.vim.org/). Despite the steep learning curve, this command line based editor has been one of the most productive tool i've ever used. There are tons of tips to improve your productivity with Vim. In this blog post I am going to share some advanced Vim tips i've been using. I am trying not to include any basic stuffs, just the advanced ones that makes me "wow" when discovered. 
 

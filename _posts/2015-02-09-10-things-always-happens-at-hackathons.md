@@ -1,12 +1,9 @@
 ---
-id: 159
+layout: post
 title: 10 things always happens at hackathons
 date: 2015-02-09T10:10:39+00:00
 author: Chan Le
-layout: post
 permalink: /10-things-always-happens-at-hackathons/
-categories:
-  - Tech
 ---
 I've joined countless of hackathons and coding events. Those things below are always happens, no matter which/ where the event is:
 

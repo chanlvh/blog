@@ -1,13 +1,9 @@
 ---
-id: 290
+layout: post
 title: 'Day 3 - Cloning Yelp'
 date: 2016-05-31T16:24:30+00:00
 author: Chan Le
-layout: post
-
 permalink: /day-3-cloning-yelp/
-categories:
-  - Tech
 ---
 [This tutorial](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) from fullstackreact seems to be famous. I'll start learning react using this resource. Here are a few things I learned: $_ means last parameter of the last command executed, even if it's on the same line:
 

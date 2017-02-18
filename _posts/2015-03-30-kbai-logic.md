@@ -1,12 +1,9 @@
 ---
-id: 246
+layout: post
 title: 'KBAI: Logic'
 date: 2015-03-30T03:32:12+00:00
 author: Chan Le
-layout: post
 permalink: /kbai-logic/
-categories:
-  - Random
 ---
 # Formal logic
 

@@ -1,14 +1,9 @@
 ---
-id: 4
+layout: post
 title: Craigslist Notifier
 date: 2014-01-03T09:14:48+00:00
 author: Chan Le
-layout: post
 permalink: /craiglist-notifier/
-dsq_thread_id:
-  - "1620160016"
-categories:
-  - Projects
 ---
 [![](/uploads/craigslist_logo-150x150.png)](/uploads/craigslist_logo.png)Tired of searching Craigslist again and again to see if someone has just posted a new listing? My new Chrome Extension Craigslist Notifier does just that - check the search result every 5 minutes and automatically notify you of any update. Anything you viewed will not show up again as notification, and the viewed list is synced across your chrome browsers/ devices.   ----- **Jul 20th, 2014 : Due to craigslist's recent updates, I've taken down the tool to update the code** ------
 

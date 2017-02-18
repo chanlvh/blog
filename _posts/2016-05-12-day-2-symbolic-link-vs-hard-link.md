@@ -1,13 +1,10 @@
 ---
-id: 280
+layout: post
 title: 'Day 2 - Symbolic link vs Hard link'
 date: 2016-05-12T21:59:42+00:00
 author: Chan Le
-layout: post
 permalink: /day-2-symbolic-link-vs-hard-link/
 image: /uploads/ka2ab.jpg
-categories:
-  - Tech
 ---
 `ln foo foo-hard`
 `ln -s foo foo-soft`

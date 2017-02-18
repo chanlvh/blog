@@ -1,14 +1,9 @@
 ---
-id: 207
+layout: post
 title: Learning by recording cases
 date: 2015-02-09T20:00:12+00:00
 author: Chan Le
-layout: post
 permalink: /learning-by-recording-cases/
-categories:
-  - Tech
-tags:
-  - KBAI
 ---
 Learning by recording cases is a way to solve problem, by looking for a similar problem we encountered in the past, then try to apply the previous solution to the new problem. Think of finding price for a house, given historical data of previous similar deals. Price of a similar house in a similar location would be a good estimation. One natural solution to find a similar encountered problem is k-nearest-neighbors.
 

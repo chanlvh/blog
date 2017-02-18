@@ -1,14 +1,10 @@
 ---
-id: 284
+layout: post
 title: 'Day 2 - Bash learning'
 date: 2016-05-13T05:06:06+00:00
 author: Chan Le
-layout: post
-
 permalink: /day-2-bash-learning/
 image: /uploads/04daa4a.jpg
-categories:
-  - Tech
 ---
 Bash works surprisingly well. I'm able to automate all of my deployment task using bash, including database creation and error checking. Even though it's a bit verbose, it's works fine! (unlike *cough*chef*cough*) A few things I learned today about bash scripting: check if variable exist `if [ -z ${VAR_NAME+x} ]; then DO_THINGS fi` assign result of command to an variable
 

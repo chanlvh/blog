@@ -1,14 +1,10 @@
 ---
-id: 266
-title: 'Day 1 - Chef nightmare &#038; setup script security problem'
+layout: post
+title: 'Day 1 - Chef nightmare & setup script security problem'
 date: 2016-05-12T13:02:23+00:00
 author: Chan Le
-layout: post
 permalink: /day-1-chef-nightmare/
 image: /uploads/pic-chef-logo.png
-categories:
-  - Projects
-  - Tech
 ---
 I decided to automate setting up my server to start this project. The goal is to install and config dokku automatically so that next installation will take 1-2s max. Because I already have some experience with chef from the early days of my career, I decided to go with it and spent several hours re-learn several concepts. The way chef use metaphor make things a bit confusing, I ended up doing 2 tutorial to get familiar with everything: [Learn the basics](https://learn.chef.io/learn-the-basics/ubuntu/) and [Managing a node](https://learn.chef.io/manage-a-node/ubuntu). Anyway here are something I re-learned:
 

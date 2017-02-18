@@ -1,12 +1,9 @@
 ---
-id: 254
+layout: post
 title: Sharing internet from a mac to PC through bluetooth
 date: 2015-04-06T11:30:03+00:00
 author: Chan Le
-layout: post
 permalink: /sharing-internet-from-a-mac-to-pc-through-bluetooth/
-categories:
-  - Tech
 ---
 Config the following things for mac:
 

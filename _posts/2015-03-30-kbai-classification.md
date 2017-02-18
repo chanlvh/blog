@@ -1,12 +1,9 @@
 ---
-id: 240
+layout: post
 title: 'KBAI: Classification'
 date: 2015-03-30T00:55:13+00:00
 author: Chan Le
-layout: post
 permalink: /kbai-classification/
-categories:
-  - Tech
 ---
 
 Imaging that you've to tell which type an animal is: is it a bird, a mammal or a reptile? How do you do that? I bet you'll look at percepts/ properties of the animal to decide: whether the animal has feather or not, whether the animal is warm-blooded or cold-blooded... There are $latex 2^n $ properties combination available, hence there are $latex 2^n $ actions/ decision we can make from those properties.

@@ -1,14 +1,9 @@
 ---
-id: 129
+layout: post
 title: Coinbase Tracker
 date: 2014-01-02T09:34:22+00:00
 author: Chan Le
-layout: post
 permalink: /coinbase-tracker/
-dsq_thread_id:
-  - "2098772907"
-categories:
-  - Projects
 ---
 A small Google Chrome's extension that automatically updates bitcoin price on its icon. Quite useful for those buy/sell bitcoin from coinbase.
 

@@ -1,13 +1,9 @@
 ---
-id: 303
+layout: post
 title: 'Js events: input, change, blur & auto-fill'
 date: 2016-07-13T20:58:33+00:00
 author: Chan Le
-layout: post
-
 permalink: /js-events-input-change-blur-and-auto-fill/
-categories:
-  - Tech
 ---
 See the sample script at [https://jsfiddle.net/chanlvh/q1n1yxk7/](https://jsfiddle.net/chanlvh/q1n1yxk7/) 
 

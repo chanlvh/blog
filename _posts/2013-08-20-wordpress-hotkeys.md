@@ -1,14 +1,10 @@
 ---
-id: 30
+layout: post
 title: WordPress hotkeys for composing entries
 date: 2013-08-20T23:02:39+00:00
 author: Chan Le
 layout: post
 permalink: /wordpress-hotkeys/
-dsq_thread_id:
-  - "1622886972"
-categories:
-  - Tech
 ---
 [![](/uploads/Wordpress_Blue_logo-150x150.png)](/uploads/Wordpress_Blue_logo.png)As a power user, I learn new hotkeys every time I got a new software. Wordpress - just like other softwares, have a set of hotkeys for power users when composing blog entry.
 

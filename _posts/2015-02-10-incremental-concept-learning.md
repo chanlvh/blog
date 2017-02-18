@@ -1,12 +1,9 @@
 ---
-id: 215
+layout: post
 title: Incremental Concept Learning
 date: 2015-02-10T00:30:22+00:00
 author: Chan Le
-layout: post
 permalink: /incremental-concept-learning/
-categories:
-  - Tech
 ---
 
 ![](https://www.dropbox.com/s/173axudui2zsbh6/Screenshot%202015-02-10%2014.24.47.png?dl=1)   The AI agent generalize or specialize a concept while learning, depends on whether the concept fits the current definition or not. Think of it as a child try to learn the concept of a dog. At first, he may think of the dog as any animal that has four legs. Meeting a cat and being told that it's not a cat will help him **specialize** the concept to exclude cat, and meeting a dog that is different from his concept of dog will help him **generalize** the concept to include the new dog.

@@ -1,13 +1,10 @@
 ---
-id: 270
+layout: post
 title: 'Day 1 - Vim regex turns comment into echo'
 date: 2016-05-12T12:37:02+00:00
 author: Chan Le
-layout: post
 permalink: /day-2-vim-regex/
 image: /uploads/regex.jpg
-categories:
-  - Tech
 ---
 While building my bash scripts to setting up server, I figure out this cool find and replace regex in vim. Originally I leave a comment in front of each command in my bash file to document what I'm doing there. After a while I realized that it's probably better if I print it out directly to the screen. So here is the regex to convert "# comment" into "echo "COMMENT"" (also changing case of the comment and add a pair of quote) `:%s/^# \(.*\)$/echo \U"======> \1"\E/gc`
 

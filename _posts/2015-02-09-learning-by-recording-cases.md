@@ -4,7 +4,6 @@ title: Learning by recording cases
 date: 2015-02-09T20:00:12+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=207
 permalink: /learning-by-recording-cases/
 categories:
   - Tech

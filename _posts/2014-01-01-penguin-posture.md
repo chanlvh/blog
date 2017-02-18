@@ -4,7 +4,6 @@ title: Penguin Posture
 date: 2014-01-01T08:44:49+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=118
 permalink: /penguin-posture/
 dsq_thread_id:
   - "2087623144"

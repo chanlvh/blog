@@ -4,9 +4,8 @@ title: 'Day 1 - Vim regex turns comment into echo'
 date: 2016-05-12T12:37:02+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=270
 permalink: /day-2-vim-regex/
-image: /wp-content/uploads/regex.jpg
+image: /uploads/regex.jpg
 categories:
   - Tech
 ---

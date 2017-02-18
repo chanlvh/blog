@@ -4,9 +4,9 @@ title: 'Day 2 - Bash learning'
 date: 2016-05-13T05:06:06+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=284
+
 permalink: /day-2-bash-learning/
-image: /wp-content/uploads/04daa4a.jpg
+image: /uploads/04daa4a.jpg
 categories:
   - Tech
 ---

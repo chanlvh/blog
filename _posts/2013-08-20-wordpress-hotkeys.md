@@ -4,14 +4,13 @@ title: WordPress hotkeys for composing entries
 date: 2013-08-20T23:02:39+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=30
 permalink: /wordpress-hotkeys/
 dsq_thread_id:
   - "1622886972"
 categories:
   - Tech
 ---
-<a href="http://blog.chan.io/wp-content/uploads/2013/08/Wordpress_Blue_logo.png"><img class="size-thumbnail wp-image-80 alignleft" alt="" src="http://blog.chan.io/wp-content/uploads/2013/08/Wordpress_Blue_logo-150x150.png" width="150" height="150" /></a>As a power user, I learn new hotkeys every time I got a new software. Wordpress - just like other softwares, have a set of hotkeys for power users when composing blog entry.
+[![](/uploads/Wordpress_Blue_logo-150x150.png)](/uploads/Wordpress_Blue_logo.png)As a power user, I learn new hotkeys every time I got a new software. Wordpress - just like other softwares, have a set of hotkeys for power users when composing blog entry.
 
 Rather than reaching for your mouse to click on the toolbar, use these access keys. Windows and Linux use Ctrl + letter. Macintosh uses Command + letter. <!--more-->
 <table>

@@ -4,7 +4,6 @@ title: Facebook Friend Rank
 date: 2014-01-14T04:30:21+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=144
 permalink: /facebook-friend-rank/
 dsq_thread_id:
   - "2120767295"

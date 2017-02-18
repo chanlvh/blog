@@ -4,7 +4,6 @@ title: 'KBAI: Classification'
 date: 2015-03-30T00:55:13+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=240
 permalink: /kbai-classification/
 categories:
   - Tech

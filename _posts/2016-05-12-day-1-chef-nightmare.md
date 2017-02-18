@@ -4,9 +4,8 @@ title: 'Day 1 - Chef nightmare &#038; setup script security problem'
 date: 2016-05-12T13:02:23+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=266
 permalink: /day-1-chef-nightmare/
-image: /wp-content/uploads/pic-chef-logo.png
+image: /uploads/pic-chef-logo.png
 categories:
   - Projects
   - Tech

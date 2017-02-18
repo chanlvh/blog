@@ -4,7 +4,7 @@ title: 'Js events: input, change, blur & auto-fill'
 date: 2016-07-13T20:58:33+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=303
+
 permalink: /js-events-input-change-blur-and-auto-fill/
 categories:
   - Tech

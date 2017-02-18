@@ -4,7 +4,7 @@ title: Browser action vs Page action
 date: 2016-12-18T14:13:38+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=307
+
 permalink: /browser-action-vs-page-action/
 categories:
   - Tech

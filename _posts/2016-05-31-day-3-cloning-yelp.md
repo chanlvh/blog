@@ -4,7 +4,7 @@ title: 'Day 3 - Cloning Yelp'
 date: 2016-05-31T16:24:30+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=290
+
 permalink: /day-3-cloning-yelp/
 categories:
   - Tech

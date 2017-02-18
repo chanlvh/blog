@@ -4,7 +4,6 @@ title: Incremental Concept Learning
 date: 2015-02-10T00:30:22+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=215
 permalink: /incremental-concept-learning/
 categories:
   - Tech

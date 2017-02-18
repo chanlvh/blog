@@ -4,9 +4,8 @@ title: 'Day 2 - Symbolic link vs Hard link'
 date: 2016-05-12T21:59:42+00:00
 author: Chan Le
 layout: post
-guid: http://blog.chan.io/?p=280
 permalink: /day-2-symbolic-link-vs-hard-link/
-image: /wp-content/uploads/ka2ab.jpg
+image: /uploads/ka2ab.jpg
 categories:
   - Tech
 ---
